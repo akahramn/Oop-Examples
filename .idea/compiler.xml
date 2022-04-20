@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="encapsulation" />
+        <module name="inheritance" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="encapsulation" target="1.5" />
+      <module name="inheritance" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
