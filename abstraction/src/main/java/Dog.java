@@ -1,21 +1,13 @@
 public class Dog extends Canine implements Pet{
     public void makeNoise() {
-
+        System.out.println("Dog make noise");
     }
 
     public void eat() {
-
-    }
-
-    public void roam() {
-
-    }
-
-    public void beFriendly() {
-
+        System.out.println("Dog eat dog food");
     }
 
     public void play() {
-
+        System.out.println("Dog plays with ball");
     }
 }

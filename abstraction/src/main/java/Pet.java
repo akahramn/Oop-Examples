@@ -1,5 +1,8 @@
 public interface Pet {
 
-    public abstract void beFriendly();
-    public abstract void play();
+
+    default void beFriendly() {
+        System.out.println("Pets are harmless");
+    }
+    void play();
 }
