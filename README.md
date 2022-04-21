@@ -12,4 +12,5 @@
 + You can use polymorphism: method overriding requires IS-A relationship.
 
 3.Abstraction
++ In Java, we can achieve abstraction in two ways: abstract class (0 to 100%) and interface (100%).
 + 
