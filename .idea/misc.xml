@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/encapsulation/pom.xml" />
         <option value="$PROJECT_DIR$/inheritance/pom.xml" />
+        <option value="$PROJECT_DIR$/abstraction/pom.xml" />
       </list>
     </option>
   </component>
