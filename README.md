@@ -13,4 +13,7 @@
 
 3.Abstraction
 + In Java, we can achieve abstraction in two ways: abstract class (0 to 100%) and interface (100%).
-+ 
++ They help us use multiple inheritance in Java.
++ They provide abstraction.
++ They provide loose coupling: objects are independent from one another.
++ If you want to define potentially required methods and common code, use an abstract class. If you just want to define a required method, use an interface.
