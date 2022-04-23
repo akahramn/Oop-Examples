@@ -17,3 +17,11 @@
 + They provide abstraction.
 + They provide loose coupling: objects are independent from one another.
 + If you want to define potentially required methods and common code, use an abstract class. If you just want to define a required method, use an interface.
+
+4.Polymorphism
++ Polymorphism is the ability of an object to take on many forms.
++ In Java polymorphism is mainly divided into two types:
+  + Compile-time Polymorphism.
+    + Method Overloading: When there are multiple functions with the same name but different parameters then these functions are said to be overloaded. Functions can be overloaded by change in the number of arguments or/and a change in the type of arguments.
+  + Runtime Polymorphism
+    + It is also known as Dynamic Method Dispatch. It is a process in which a function call to the overridden method is resolved at Runtime. This type of polymorphism is achieved by Method Overriding.
